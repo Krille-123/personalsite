@@ -65,9 +65,9 @@
       holistiskt perspektiv på utveckling av produkter och tjänster.
     </p>
     <p>
-      Utöver teknik är jag också intresserad av agil metodik. Utöver det
-      tekniska arbetet jobbar jag ibland som Scrum Master och produktägare i
-      Scrum-projekt.
+      Utöver teknik är jag också intresserad av agil metodik. I SCRUM-projekt
+      jobbar jag ibland som Scrum Master och produktägare. Kopplingen mellan
+      DevOps och den agila metodiken är ett ämne som jag utforskar extra mycket.
     </p>
   </div>
   <aside>
