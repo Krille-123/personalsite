@@ -69,12 +69,6 @@
       tekniska arbetet jobbar jag ibland som Scrum Master och produktägare i
       Scrum-projekt.
     </p>
-    <p>
-      Vill du komma i kontakt med mig? Skicka gära iväg ett mail till
-      <a href="mailto:kristofferkarlsson91@gmail.com">
-        kristofferkarlsson91@gmail.com
-      </a>
-    </p>
   </div>
   <aside>
     <img src="/krille.png" alt="krille" />
