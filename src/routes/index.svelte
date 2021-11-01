@@ -58,7 +58,8 @@
         href="https://www.isotop.se/">
         Isotop
       </a>
-      som tycker att både webb och apputveckling är kul.
+      där jag får utveckla både webb och mobilapplikationer åt våra kunder och i
+      interna projekt.
     </p>
     <p>
       Jag har ett brett intresse av systemutveckling och arbetar gärna med ett
@@ -66,8 +67,7 @@
     </p>
     <p>
       Utöver teknik är jag också intresserad av agil metodik. I SCRUM-projekt
-      jobbar jag ibland som Scrum Master och produktägare. Kopplingen mellan
-      DevOps och den agila metodiken är ett ämne som jag utforskar extra mycket.
+      jobbar jag ibland som Scrum Master och produktägare.
     </p>
   </div>
   <aside>

@@ -34,6 +34,11 @@
       margin: 0 auto 2rem auto;
       max-width: 80%;
     }
+
+    h1 {
+      margin: 0 auto 2rem auto;
+      max-width: 95%;
+    }
   }
 </style>
 
@@ -46,12 +51,13 @@
   <article>
     <h2>Android</h2>
     <p>
-      Apputveckling har jag huvudsakligen gjort för Android med språket Kotlin.
-      Det är en spännande plattform som rör sig snabbt och förbättras konstant.
+      Mitt första erfarenhet av apputveckling var Androidutveckling med Kotlin.
+      Jag byggde Androidversionen av en app som skannade NFC-chip i passerkort
+      och validerade certifikaten som var lagrade på dem.
     </p>
     <p>
-      Något som jag utforskar just nu är möjligheten till att använda Kotlin
-      till server side-utveckling.
+      Det var intressant att se hur mycket plattformen utvecklats och
+      förbättrats, och kul att få integrera med hårdvara.
     </p>
   </article>
 
@@ -59,10 +65,11 @@
     <h2>Flutter</h2>
     <p>
       Det senaste verktyget i min toolbox är Googles Flutter. Jag trivs mycket
-      bra med Dart och Flutters toolkit för att bygga UI.
+      bra med Dart och Flutters toolkit för att bygga UI. Just nu jobbar jag i
+      ett appprojekt som integrerar med bluetoothprodukter.
     </p>
     <p>
-      Ett ämne jag utforskar just nu är möjligheten att bygga
+      Ett aspekt av Flutter jag utforskar är möjligheten att bygga
       plattformsagnostiska applikatoner och publicera till iOS/Android, desktop
       och webb. Flutter for web blir bättre och bättre och Flutter börjar också
       utmana inom desktoputveckling.
@@ -86,18 +93,17 @@
     <h2>Frontend</h2>
     <p>
       Sedan 5 år tillbaka har React varit mitt mest använda verktyg till att
-      bygga moderna webbklienter. På senare tid har jag också anammat ramverket
-      next.js som hjälper till med att göra t.ex. server side rendering och code
-      splitting på ett smidigt och standardiserat sätt.
+      bygga moderna webbklienter. Jag har byggt både med ramverket Next.js, och
+      hemsnickrade lösningar med Redux som state manager.
     </p>
     <p>
       Ett annat ramverk ovanpå React som jag har använt i våra projekt är
       Gatsby.js. Gatsby är en static site generator som är väldigt härligt att
       jobba med när man vill hämta content från källor som t.ex. headless CMS
-      och slippa riskerna med att ha en klient serverad av en server. Vi har
-      använt det i kombination med Contentful för projekt där det är viktigt med
-      sitens tillgänglighet och responstid trots stora användarmängder under
-      kort tid.
+      och slippa riskerna och komplexiteten med att servera klienten från en
+      server. I projekt där det är viktigt med sitens tillgänglighet och
+      responstid trots stora användarmängder under kort tid, har vi använt det i
+      kombination med Contentful som CMS och Cloudflare som hosting.
     </p>
     <p>
       Ett ramverk som jag tycker om och har labbat en del privat med, men tyvärr
